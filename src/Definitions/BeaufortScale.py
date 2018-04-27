@@ -1,0 +1,1 @@
+def beaufort_scale(value, type):
