@@ -4,7 +4,309 @@
     <bookmark url="file://$PROJECT_DIR$/src/DataHandler/aemetDataBaseConfig.py" line="4" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73ae3553-6431-4a82-a754-2ca6d9a4b33e" name="Default" comment="" />
+    <list default="true" id="73ae3553-6431-4a82-a754-2ca6d9a4b33e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/insuranceDataProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/insuranceDataProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200001" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200002" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200003" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200003" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200004" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200004" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200005" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200005" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200006" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200006" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200007" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200007" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200008" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200008" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200009" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200009" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200010" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200010" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200011" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200011" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200012" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200012" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200101" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200101" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200102" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200102" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200103" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200103" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200104" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200104" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200105" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200105" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200106" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200106" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200107" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200107" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200108" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200108" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200110" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200110" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200111" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200111" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200112" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200112" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200201" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200201" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200202" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200202" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200203" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200203" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200204" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200204" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200205" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200205" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200206" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200206" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200207" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200207" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200208" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200208" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200209" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200209" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200210" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200210" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200211" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200211" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200212" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200212" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200301" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200301" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200302" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200302" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200303" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200303" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200305" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200305" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200306" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200306" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200307" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200307" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200308" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200308" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200309" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200309" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200310" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200310" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200311" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200311" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200312" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200312" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200401" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200401" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200402" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200402" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200403" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200403" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200404" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200404" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200405" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200405" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200406" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200406" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200407" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200407" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200408" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200408" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200409" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200409" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200410" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200410" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200411" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200411" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200412" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200412" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200501" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200501" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200503" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200503" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200504" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200504" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200505" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200505" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200506" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200506" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200507" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200507" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200508" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200508" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200509" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200509" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200510" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200510" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200511" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200511" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200512" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200601" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200601" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200602" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200602" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200603" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200603" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200604" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200604" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200605" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200605" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200606" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200606" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200607" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200607" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200608" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200608" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200609" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200609" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200611" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200611" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200612" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200612" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200701" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200701" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200702" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200702" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200703" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200703" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200704" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200704" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200705" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200705" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200706" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200706" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200707" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200707" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200708" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200708" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200709" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200709" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200710" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200710" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200711" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200711" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200712" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200712" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200801" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200801" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200802" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200802" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200803" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200803" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200804" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200804" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200805" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200805" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200807" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200807" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200808" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200808" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200809" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200809" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200810" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200810" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200811" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200811" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200812" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200812" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200901" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200901" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200902" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200902" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200903" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200903" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200904" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200904" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200905" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200905" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200906" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200906" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200907" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200907" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200908" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200908" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200909" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200909" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200910" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200911" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200911" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200912" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_200912" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201001" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201003" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201003" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201004" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201004" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201005" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201005" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201006" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201006" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201007" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201007" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201008" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201008" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201009" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201009" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201010" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201010" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201011" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201011" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201012" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201012" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201101" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201101" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201102" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201102" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201103" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201103" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201104" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201104" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201105" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201105" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201106" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201106" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201107" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201107" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201108" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201108" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201109" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201109" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201110" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201110" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201112" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201112" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201201" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201201" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201202" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201202" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201203" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201203" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201204" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201204" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201205" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201205" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201206" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201206" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201207" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201207" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201208" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201208" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201209" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201209" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201210" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201210" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201211" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201211" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201212" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201212" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201301" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201301" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201302" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201302" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201303" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201303" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201304" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201304" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201305" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201305" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201306" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201306" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201307" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201307" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201309" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201309" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201310" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201310" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201311" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201311" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201312" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201312" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201401" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201401" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201402" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201402" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201403" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201403" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201404" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201404" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201405" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201405" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201406" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201406" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201407" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201407" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201408" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201408" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201409" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201409" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201410" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201410" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201411" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201411" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201412" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201412" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201501" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201501" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201502" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201502" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201503" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201503" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201504" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201504" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201505" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201505" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201506" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201506" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201507" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201507" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201508" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201508" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201509" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201509" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201510" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201510" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201511" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201511" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201512" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201601" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201601" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201602" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201602" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201603" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201603" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201604" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201604" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201605" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201605" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201606" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201606" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201607" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201607" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201608" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201608" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201609" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201609" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201610" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201610" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201611" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201611" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201612" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201612" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201701" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201701" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201702" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201702" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201703" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201703" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201704" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201704" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201705" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201705" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201706" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201706" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201707" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201707" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201708" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201708" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201709" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201709" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201710" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201710" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201711" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201711" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201712" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201712" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201801" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201801" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201802" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201802" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201803" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201803" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201804" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/AEMET_CLIM_DAILY_B278_201804" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AEMET_DATA/reference_data/valoresclimatologicos_palma-de-mallorca-aeropuerto.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/AEMET_DATA/reference_data/valoresclimatologicos_palma-de-mallorca-aeropuerto.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/45.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/46.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/46_alternativ.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/46_alternativ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/47.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/background3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/background3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/cloudy.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/cloudy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/east.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/east.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/gust.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/gust.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/humidity.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/humidity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/loc.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/loc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/map.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/north.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/north.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/northeast.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/northeast.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/northwest.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/northwest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/pressure.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/pressure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/radarerklärung.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/radarerklärung.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/red-circle.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/red-circle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/south.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/south.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/southeast.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/southeast.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/southwest.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/southwest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/temp.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/temp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/undefined.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/undefined.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/wdir.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/wdir.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/wdir.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/wdir.xcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/west.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/west.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bilder/wind.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/bilder/wind.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/probability_data/PALMA_DE_MALLORCA2018.p" beforeDir="false" afterPath="$PROJECT_DIR$/data/probability_data/PALMA_DE_MALLORCA2018.p" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/probability_data/PALMA_DE_MALLORCA_2018.p" beforeDir="false" afterPath="$PROJECT_DIR$/data/probability_data/PALMA_DE_MALLORCA_2018.p" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/stations_list/stations_spain.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/stations_list/stations_spain.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/stations_list/stations_spain.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/stations_list/stations_spain.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/stationsliste_wind_daily.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/stationsliste_wind_daily.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/stationsliste_wind_mean_hourly.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/stationsliste_wind_mean_hourly.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/stationsliste_wind_vmax.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/stationsliste_wind_vmax.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/wind_gutachten_plot.html" beforeDir="false" afterPath="$PROJECT_DIR$/data/wind_gutachten_plot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_Report_dirty.zip" beforeDir="false" afterPath="$PROJECT_DIR$/example_Report_dirty.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataHandler/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataHandler/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataHandler/aemetDataBaseConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataHandler/aemetDataBaseConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataHandler/aemetDataHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataHandler/aemetDataHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataHandler/dataServices.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataHandler/dataServices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataHandler/stationListHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataHandler/stationListHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Definitions/BeaufortScale.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Definitions/BeaufortScale.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Definitions/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Definitions/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Report/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Report/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Report/reportServices.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Report/reportServices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RequestHandler/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/RequestHandler/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RequestHandler/requestHandler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/RequestHandler/requestHandler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/.versions" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/.versions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/colorize.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/colorize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/colorize.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/colorize.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/container.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/container.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/container.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/embed.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/embed.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/embed.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/embed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/embed.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/embed.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/embed.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/embed.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/visit.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/visit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/visit.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/components/visit.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/npm-debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/npm-debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/package.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/package.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RestAPI/templates/insurance_request_dwd_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/RestAPI/templates/insurance_request_dwd_report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Statistics/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Statistics/statisticalCalculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Statistics/statisticalCalculations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToolBox/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToolBox/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToolBox/server_answer.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToolBox/server_answer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToolBox/testBed.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToolBox/testBed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToolBox/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToolBox/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/geo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/geo/geoServices.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/geo/geoServices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plot/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/plot/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plot/plotCreatorPlotly.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/plot/plotCreatorPlotly.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/time/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/time/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/time/timeHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/time/timeHelper.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +322,7 @@
       <file leaf-file-name="tools.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ToolBox/tools.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="225">
               <caret line="23" column="12" selection-start-line="23" selection-end-line="24" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -32,7 +334,7 @@
       <file leaf-file-name="reportServices.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Report/reportServices.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="120">
               <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
             </state>
           </provider>
@@ -41,8 +343,8 @@
       <file leaf-file-name="requestHandler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RequestHandler/requestHandler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            <state relative-caret-position="75">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding>
                 <element signature="e#0#70#0" expanded="true" />
               </folding>
@@ -50,14 +352,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="timeHelper.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/time/timeHelper.py">
+      <file leaf-file-name="insurance_request_dwd_report.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RestAPI/templates/insurance_request_dwd_report.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3281">
-              <caret line="198" column="38" selection-start-line="198" selection-start-column="38" selection-end-line="198" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="15">
+              <caret line="26" column="91" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="holiday_insurance.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RestAPI/templates/holiday_insurance.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="106" selection-start-line="106" selection-end-line="106" />
             </state>
           </provider>
         </entry>
@@ -65,7 +373,7 @@
       <file leaf-file-name="statisticalCalculations.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Statistics/statisticalCalculations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
+            <state relative-caret-position="780">
               <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -77,7 +385,7 @@
       <file leaf-file-name="aemetDataHandler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataHandler/aemetDataHandler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="270">
               <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
@@ -89,20 +397,20 @@
       <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RestAPI/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+            <state relative-caret-position="405">
+              <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
               <folding>
-                <element signature="e#0#32#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stations_spain.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/stations_list/stations_spain.csv">
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RestAPI/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2499">
-              <caret line="147" column="64" selection-start-line="147" selection-start-column="64" selection-end-line="147" selection-end-column="64" />
+            <state>
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -110,7 +418,7 @@
       <file leaf-file-name="aemetDataBaseConfig.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DataHandler/aemetDataBaseConfig.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="60">
               <caret line="4" column="82" selection-start-line="4" selection-start-column="82" selection-end-line="4" selection-end-column="82" />
             </state>
           </provider>
@@ -135,6 +443,9 @@
       <replace>','</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -157,6 +468,7 @@
         <option value="$PROJECT_DIR$/src/ToolBox/tools.py" />
         <option value="$PROJECT_DIR$/src/Statistics/statisticalCalculations.py" />
         <option value="$PROJECT_DIR$/src/RequestHandler/requestHandler.py" />
+        <option value="$PROJECT_DIR$/src/RestAPI/templates/holiday_insurance.html" />
         <option value="$PROJECT_DIR$/src/RestAPI/app.py" />
       </list>
     </option>
@@ -172,11 +484,13 @@
       <path value="$PROJECT_DIR$/src/RestAPI/templates/Semantic-UI-CSS-master/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="y" value="-4" />
-    <option name="width" value="1920" />
-    <option name="height" value="1084" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="182" />
+    <option name="y" value="61" />
+    <option name="width" value="1371" />
+    <option name="height" value="873" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
@@ -261,19 +575,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/projects/forecast-system/prognosis-python-research" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/data/AEMET_DATA" />
-      <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/src/plot" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/RestAPI/templates" />
       <recent name="$PROJECT_DIR$/src/RestAPI" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/AEMET_DATA" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/src/plot" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -289,112 +603,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="insuranceDataProject" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="insuranceDataProject" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="insuranceDataProject" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="insuranceDataProject" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="insuranceDataProject" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -413,96 +621,6 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="insuranceDataProject" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="insuranceDataProject" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="insuranceDataProject" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="insuranceDataProject" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -541,22 +659,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1920" height="1084" extended-state="7" />
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3286517" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3552769" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16187434" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3286517" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3529412" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23418134" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32991013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -594,29 +712,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working version1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="working version1.0" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/geo/geoServices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataHandler/aemetDataHandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RestAPI/templates/insurance_request_dwd_report.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -628,9 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,13 +930,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RestAPI/templates/insurance_request_dwd_report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="91" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/stations_list/stations_spain.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2499">
@@ -851,7 +946,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/time/timeHelper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3281">
+        <state relative-caret-position="2895">
           <caret line="198" column="38" selection-start-line="198" selection-start-column="38" selection-end-line="198" selection-end-column="38" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
@@ -861,7 +956,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataHandler/aemetDataHandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="270">
           <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
@@ -871,7 +966,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataHandler/aemetDataBaseConfig.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="60">
           <caret line="4" column="82" selection-start-line="4" selection-start-column="82" selection-end-line="4" selection-end-column="82" />
         </state>
       </provider>
@@ -885,14 +980,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Report/reportServices.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="120">
           <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ToolBox/tools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="225">
           <caret line="23" column="12" selection-start-line="23" selection-end-line="24" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -902,7 +997,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Statistics/statisticalCalculations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
+        <state relative-caret-position="780">
           <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -910,10 +1005,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/RestAPI/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RestAPI/templates/holiday_insurance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RestAPI/templates/insurance_request_dwd_report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="26" column="91" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/RequestHandler/requestHandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding>
             <element signature="e#0#70#0" expanded="true" />
           </folding>
@@ -922,10 +1038,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RestAPI/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="405">
+          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
