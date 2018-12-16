@@ -39,8 +39,8 @@ def get_aemet_climate_data(start_date: datetime,
         else:
             url_request = AEMET_BASE_URL + month.strftime('%Y-%m-%dT00:00:00UTC') + \
                           AEMET_MID_URL_2 + (month+timedelta(days=32)).replace(
-                day=1).strftime('%Y-%m-%dT00:00:00UTC') + AEMET_MID_URL + \
-                          station_id_str + AEMET_API_KEY
+                day=1).strftime('%Y-%m-%dT00:00:00UTC') + station_id_str \
+                          + AEMET_MID_URL + AEMET_API_KEY
             loader(url_request, request_json)
             try:
                 answer = pd.read_json(request_json, typ='series')
