@@ -1,7 +1,8 @@
 from flask import Flask, request, jsonify
 from datetime import datetime
-from src.RequestHandler.requestHandler import prepare_data
-from config import VALID_API_KEYS
+from src.RequestHandler.requestHandler import RequestHandler
+from src.RequestHandler.requesHandlerServices import RequestConfig
+from config import VALID_API_KEYS, BASE_PATH_DATA
 app = Flask(__name__)
 
 
@@ -15,17 +16,18 @@ def my_route():
     if request.args.get('api_key', type=str) in VALID_API_KEYS:
         print(request.args.get('trip_duration', type=int))
         try:
-            param = {
-                'destination': request.args.get('destination', type=str),
-                'trip_duration': request.args.get('trip_duration', type=int),
-                'arrival': datetime.strptime(request.args.get('arrival', type=str), '%Y%m%d'),
-                'criterion_num_days': request.args.get('criterion_num_days', type=int),
-                'criterion_sunshine_hours_per_day': request.args.get('criterion_sunshine_hours_per_day', type=int)
-            }
+            request = RequestConfig(request.args.get('destination', type=str),
+                                    datetime.strptime(request.args.get('arrival', type=str), '%Y%m%d'),
+                                    request.args.get('trip_duration', type=int),
+                                    request.args.get('criterion_num_days', type=int),
+                                    request.args.get('criterion_sunshine_hours_per_day', type=int),
+                                    BASE_PATH_DATA
+                                    )
         except BaseException as e:
             return jsonify(e)
 
-        prob, u = prepare_data(**param)
+        prob_calculator = RequestHandler(request)
+        prob = prob_calculator.calculate_poisson_probability()
 
         return jsonify({'result': {'probability': {'value': round(prob.values[0], 2),
                                                       'unit': '%',
@@ -33,7 +35,7 @@ def my_route():
                                       'Mean number of days where criterion is True in hist.Dataset': {'value': u.values[0],
                                                                        'unit': 'days',
                                                                        'type': 'float'}},
-                           'request': {'destination': {'value': param['destination'],
+                                    'request': {'destination': {'value': param['destination'],
                                                        'unit': 'None',
                                                        'type': 'str'},
                                        'trip_duration': {'value': param['trip_duration'],

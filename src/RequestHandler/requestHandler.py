@@ -1,26 +1,44 @@
 from src.Statistics.statisticalCalculations import poisson_probability
 import pandas as pd
-import datetime
+import numpy as np
 
 
-def prepare_data(destination: str, arrival: datetime.datetime,
-                 trip_duration: int, criterion_num_days: int, criterion_sunshine_hours_per_day: int):
+class RequestHandler:
     """
-
-    :param destination:
-    :param start_date:
-        datetime.datetime
-    :param trip_duration:
-    :param criterion_num_days:
-        Number of days where the criterion should be true
-    :param criterion_sunshine_day:
-        Criterion for Sunshine hours per day
-        [1: <=1, 2:<=2, 3:<=3, 4:<=4, 5:<=5, 6:<=6]
-    :return:
+        this class procedes a request about the probability of an event
+        with the information from the request config
     """
-    path = '../../data/probability_data/'
-    mean_days_lower_than = pd.read_pickle(path+destination + arrival.strftime('%Y') +'.p')
-    u = mean_days_lower_than.loc[arrival, trip_duration][0][str(criterion_sunshine_hours_per_day)]
-    prob = poisson_probability(u, criterion_num_days) * 100
+    def __init__(self, request_config):
+        self.request_config = request_config
 
-    return prob, u
+    def __get_prepared_data(self):
+        """
+            get the right file from the file system where the pre calculated values are in a
+            pd.DataFrame. The DataFrame contains dictionaries
+        """
+        self.data = pd.read_pickle('{base_path}{destination}_{year}.p'.format(
+            base_path=self.request_config['base_path_data'],
+            destination=self.request_config['destination'],
+            year=self.request_config['arrival'].strftime('%Y')
+        ))
+
+    def receive_mean_amount_days_lt(self):
+        """
+            provides the pre calculated mean amount of days that are lower than
+            the criterion in request_config
+        """
+        self.__get_prepared_data()
+        self.mean_amount_days_lt = self.data.loc[
+            self.request_config['arrival'],
+            self.request_config['trip_duration']][0][str(
+            self.request_config['criterion_sunshine_hours_per_day'])]
+
+    def calculate_poisson_probability(self):
+        """
+            return the cumulated poisson probability for all requested days
+        """
+        self.receive_mean_amount_days_lt()
+        prob = []
+        for num_day in range(1, self.request_config['criterion_num_days']+1):
+            prob.append(poisson_probability(self.mean_amount_days_lt, num_day))
+        return np.prod(np.array(prob))

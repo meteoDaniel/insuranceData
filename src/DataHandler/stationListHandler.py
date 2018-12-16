@@ -3,6 +3,9 @@ from src.DataHandler.aemetDataBaseConfig import AEMET_STATION_LIST
 
 
 def parse_aemet_stationlist():
+    """
+        create a csv from AEMET json station list
+    """
     station_list = pd.read_json(AEMET_STATION_LIST, encoding='ISO-8859-1')
     station_list.columns = ['HEIGHT_ABOVE_NN',
                             'NATIONAL_ID',
