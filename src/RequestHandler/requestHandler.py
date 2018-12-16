@@ -17,9 +17,9 @@ class RequestHandler:
             pd.DataFrame. The DataFrame contains dictionaries
         """
         self.data = pd.read_pickle('{base_path}{destination}_{year}.p'.format(
-            base_path=self.request_config['base_path_data'],
-            destination=self.request_config['destination'],
-            year=self.request_config['arrival'].strftime('%Y')
+            base_path=self.request_config.base_path_data,
+            destination=self.request_config.destination,
+            year=self.request_config.arrival.strftime('%Y')
         ))
 
     def receive_mean_amount_days_lt(self):
@@ -29,9 +29,9 @@ class RequestHandler:
         """
         self.__get_prepared_data()
         self.mean_amount_days_lt = self.data.loc[
-            self.request_config['arrival'],
-            self.request_config['trip_duration']][0][str(
-            self.request_config['criterion_sunshine_hours_per_day'])]
+            self.request_config.arrival,
+            self.request_config.trip_duration][0][str(
+            self.request_config.criterion_sunshine_hours_per_day)]
 
     def calculate_poisson_probability(self):
         """
@@ -39,6 +39,6 @@ class RequestHandler:
         """
         self.receive_mean_amount_days_lt()
         prob = []
-        for num_day in range(1, self.request_config['criterion_num_days']+1):
+        for num_day in range(1, self.request_config.criterion_num_days+1):
             prob.append(poisson_probability(self.mean_amount_days_lt, num_day))
         return np.prod(np.array(prob))

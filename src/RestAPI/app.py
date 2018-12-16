@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from datetime import datetime
 from src.RequestHandler.requestHandler import RequestHandler
 from src.RequestHandler.requesHandlerServices import RequestConfig
-from config import VALID_API_KEYS, BASE_PATH_DATA
+from src.RestAPI.config import VALID_API_KEYS, BASE_PATH_DATA
 app = Flask(__name__)
 
 
@@ -16,7 +16,7 @@ def my_route():
     if request.args.get('api_key', type=str) in VALID_API_KEYS:
         print(request.args.get('trip_duration', type=int))
         try:
-            request = RequestConfig(request.args.get('destination', type=str),
+            parsed_request = RequestConfig(request.args.get('destination', type=str),
                                     datetime.strptime(request.args.get('arrival', type=str), '%Y%m%d'),
                                     request.args.get('trip_duration', type=int),
                                     request.args.get('criterion_num_days', type=int),
@@ -26,7 +26,7 @@ def my_route():
         except BaseException as e:
             return jsonify(e)
 
-        prob_calculator = RequestHandler(request)
+        prob_calculator = RequestHandler(parsed_request)
         prob = prob_calculator.calculate_poisson_probability()
 
         return jsonify({'result': {'probability': {'value': round(prob.values[0], 2),
