@@ -11,7 +11,7 @@ import pandas as pd
 def main():
     from IPython import embed
     embed()
-
+    BASE_PATH_DATA = "/home/d.lassahn/projects/ewb-projects/insuranceData/data/probability_data/"
     parsed_request = RequestConfig('PALMA_DE_MALLORCA',
                                    datetime(2018, 6, 10),
                                    7,
@@ -22,6 +22,7 @@ def main():
 
     prob_calculator = RequestHandler(parsed_request)
     prob = prob_calculator.calculate_poisson_probability()
+
 
 if __name__ == '__main__':
     sys.exit(main())

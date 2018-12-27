@@ -1,5 +1,6 @@
 import pandas as pd
-from src.time.timeHelper import monthly_date_range, num_days_per_month, daily_date_range
+from src.time.timeHelper import monthly_date_range, num_days_per_month,\
+    daily_date_range
 import numpy as np
 from datetime import datetime, timedelta
 
@@ -20,9 +21,11 @@ def mean_sunshine_duration_per_day(data: pd.DataFrame):
     return data.groupby([data.index.month, data.index.day]).mean()
 
 
-def monthly_to_daily_mean_sunduration(reference_data: pd.DataFrame) -> pd.DataFrame:
+def monthly_to_daily_mean_sunduration(
+        reference_data: pd.DataFrame) -> pd.DataFrame:
     """
-        calculates daily values of mean sunshine duration based on monthly climate data
+        calculates daily values of mean sunshine duration
+         based on monthly climate data
         # deprecated
 
     """
@@ -44,10 +47,12 @@ def monthly_to_daily_mean_sunduration(reference_data: pd.DataFrame) -> pd.DataFr
 
     interpolated_reference_data[0] = 0
     interpolated_reference_data = interpolated_reference_data + ref_data_sun
-    interpolated_reference_data.iloc[0, 0] = (daily_sunshine_mean_reference[0] +
-                                              daily_sunshine_mean_reference[-1]) / 2
-    interpolated_reference_data.iloc[-1, 0] = (daily_sunshine_mean_reference[0] +
-                                               daily_sunshine_mean_reference[-1]) / 2
+    interpolated_reference_data.iloc[0, 0] = \
+        (daily_sunshine_mean_reference[0] +
+         daily_sunshine_mean_reference[-1]) / 2
+    interpolated_reference_data.iloc[-1, 0] = \
+        (daily_sunshine_mean_reference[0] +
+         daily_sunshine_mean_reference[-1]) / 2
 
     return interpolated_reference_data.interpolate(method='linear')
 
@@ -66,21 +71,32 @@ def calculcate_mean_days_lower_than_table(data: pd.DataFrame,
                 all_sunshine_hours = pd.concat(
                     [all_sunshine_hours,
                      data[np.logical_and(
-                         data.index.month == (day+timedelta(days=day_of_trip)).month,
-                         data.index.day == (day+timedelta(days=day_of_trip)).day)].sol])
+                         data.index.month == (day+timedelta(
+                             days=day_of_trip)).month,
+                         data.index.day == (day+timedelta(
+                             days=day_of_trip)).day)].sol])
             num_of_years = len(
                 data[np.logical_and(
-                    data.index.month == (day+timedelta(days=day_of_trip)).month,
-                    data.index.day == (day+timedelta(days=day_of_trip)).day)].sol)
+                    data.index.month == (day+timedelta(
+                        days=day_of_trip)).month,
+                    data.index.day == (day+timedelta(
+                        days=day_of_trip)).day)].sol)
 
             mean_days_lower = {
-                '1': all_sunshine_hours[all_sunshine_hours <= 1.0].count() / num_of_years,
-                '2': all_sunshine_hours[all_sunshine_hours <= 2.0].count() / num_of_years,
-                '3': all_sunshine_hours[all_sunshine_hours <= 3.0].count() / num_of_years,
-                '4': all_sunshine_hours[all_sunshine_hours <= 4.0].count() / num_of_years,
-                '5': all_sunshine_hours[all_sunshine_hours <= 5.0].count() / num_of_years,
-                '6': all_sunshine_hours[all_sunshine_hours <= 6.0].count() / num_of_years}
-            mean_days_lower_day_per_year.loc[day, trip_duration] = [mean_days_lower]
+                '1': all_sunshine_hours[all_sunshine_hours <= 1.0].count() /
+                     num_of_years,
+                '2': all_sunshine_hours[all_sunshine_hours <= 2.0].count() /
+                     num_of_years,
+                '3': all_sunshine_hours[all_sunshine_hours <= 3.0].count() /
+                     num_of_years,
+                '4': all_sunshine_hours[all_sunshine_hours <= 4.0].count() /
+                     num_of_years,
+                '5': all_sunshine_hours[all_sunshine_hours <= 5.0].count() /
+                     num_of_years,
+                '6': all_sunshine_hours[all_sunshine_hours <= 6.0].count() /
+                     num_of_years}
+            mean_days_lower_day_per_year.loc[day, trip_duration] = \
+                [mean_days_lower]
             all_sunshine_hours = pd.DataFrame()
     return mean_days_lower_day_per_year
 
@@ -98,16 +114,25 @@ def calculcate_num_days_lower_than_table(data: pd.DataFrame) -> pd.DataFrame:
                 sun_duration_whole_dataset = pd.concat(
                     [sun_duration_whole_dataset,
                      data[np.logical_and(
-                         data.index.month == (day+timedelta(days=day_of_trip)).month,
-                         data.index.day == (day+timedelta(days=day_of_trip)).day)].sol])
+                         data.index.month == (day+timedelta(
+                             days=day_of_trip)).month,
+                         data.index.day == (day+timedelta(
+                             days=day_of_trip)).day)].sol])
 
-            mean_days_lower = {'1': sun_duration_whole_dataset[sun_duration_whole_dataset <= 1.0].count(),
-                               '2': sun_duration_whole_dataset[sun_duration_whole_dataset <= 2.0].count(),
-                               '3': sun_duration_whole_dataset[sun_duration_whole_dataset <= 3.0].count(),
-                               '4': sun_duration_whole_dataset[sun_duration_whole_dataset <= 4.0].count(),
-                               '5': sun_duration_whole_dataset[sun_duration_whole_dataset <= 5.0].count(),
-                               '6': sun_duration_whole_dataset[sun_duration_whole_dataset <= 6.0].count()}
-            num_days_lower_day_per_year.loc[day, trip_duration] = [mean_days_lower]
+            mean_days_lower = {'1': sun_duration_whole_dataset[
+                sun_duration_whole_dataset <= 1.0].count(),
+                               '2': sun_duration_whole_dataset[
+                                   sun_duration_whole_dataset <= 2.0].count(),
+                               '3': sun_duration_whole_dataset[
+                                   sun_duration_whole_dataset <= 3.0].count(),
+                               '4': sun_duration_whole_dataset[
+                                   sun_duration_whole_dataset <= 4.0].count(),
+                               '5': sun_duration_whole_dataset[
+                                   sun_duration_whole_dataset <= 5.0].count(),
+                               '6': sun_duration_whole_dataset[
+                                   sun_duration_whole_dataset <= 6.0].count()}
+            num_days_lower_day_per_year.loc[day, trip_duration] = \
+                [mean_days_lower]
             sun_duration_whole_dataset = pd.DataFrame()
     return num_days_lower_day_per_year
 

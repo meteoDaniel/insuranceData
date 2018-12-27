@@ -13,8 +13,9 @@ class RequestHandler:
 
     def __get_prepared_data(self):
         """
-            get the right file from the file system where the pre calculated values are in a
-            pd.DataFrame. The DataFrame contains dictionaries
+            get the right file from the file system where
+            the pre calculated values are in a pd.DataFrame.
+            The DataFrame contains dictionaries
         """
         self.data = pd.read_pickle('{base_path}{destination}_{year}.p'.format(
             base_path=self.request_config.base_path_data,
@@ -39,6 +40,7 @@ class RequestHandler:
         """
         self.receive_mean_amount_days_lt()
         prob = []
-        for num_day in range(1, self.request_config.criterion_num_days+1):
+        for num_day in range(self.request_config.criterion_num_days,
+                             self.request_config.trip_duration+1):
             prob.append(poisson_probability(self.mean_amount_days_lt, num_day))
-        return np.prod(np.array(prob))
+        return np.sum(np.array(prob))

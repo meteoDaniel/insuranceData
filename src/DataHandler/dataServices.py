@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 from src.time.timeHelper import monthly_date_range
 import time
 
+
 def loader(url_request, output):
     os.system('wget --no-check-certificate ' + url_request + ' -O ' + output)
 
