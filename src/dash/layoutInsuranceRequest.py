@@ -88,7 +88,7 @@ def generate_html_layout(locations: list):
                          id='trip-duration',
                          options=[{'label': i, 'value': i} for i in range(7, 22)],
                          value=7
-                     ),], className="three wide column"),
+                     ),], className="two wide column"),
                 html.Div(
                     [html.P('Sonnenscheindauer pro Tag'),
                      dcc.Dropdown(
@@ -104,7 +104,7 @@ def generate_html_layout(locations: list):
                          options=[{'label': i, 'value': i} for i in
                                   range(2, 20)],
                          value=2
-                     ), ], className="two wide column")
+                     ), ], className="three wide column")
 
             ], className="five column row"),
             html.Div([
