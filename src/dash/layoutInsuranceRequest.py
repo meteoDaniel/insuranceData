@@ -96,7 +96,7 @@ def generate_html_layout(locations: list):
                          options=[{'label': i, 'value': i} for i in
                                   range(2, 8)],
                          value=4
-                     ), ], className="two wide column"),
+                     ), ], className="three wide column"),
                 html.Div(
                     [html.P('Anzahl Tage mit mind.'),
                      dcc.Dropdown(
@@ -104,7 +104,7 @@ def generate_html_layout(locations: list):
                          options=[{'label': i, 'value': i} for i in
                                   range(2, 20)],
                          value=2
-                     ), ], className="three wide column")
+                     ), ], className="two wide column")
 
             ], className="five column row"),
             html.Div([
