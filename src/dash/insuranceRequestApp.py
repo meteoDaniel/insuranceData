@@ -1,5 +1,5 @@
 import dash
-import pandas as pd
+import os
 from datetime import datetime
 from src.dash.layoutInsuranceRequest import generate_html_layout
 from src.RequestHandler.requestHandler import RequestHandler
@@ -8,9 +8,9 @@ from src.RequestHandler.requesHandlerServices import RequestConfig
 app = dash.Dash()
 
 locations = ['PALMA_DE_MALLORCA']
-
+current_dir = os.getcwd()
 app.layout = generate_html_layout(locations)
-BASE_PATH_DATA = "/home/d.lassahn/projects/ewb-projects/insuranceData/data/probability_data/"
+BASE_PATH_DATA = current_dir+"/../../data/probability_data/"
 
 
 
