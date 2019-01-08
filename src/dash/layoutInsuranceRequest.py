@@ -42,7 +42,7 @@ def generate_html_layout(locations: list):
         html.Div([
             html.Div([
                 html.Div([
-                    html.H1(children='Probability calculation good weather insurance',
+                    html.H1(children='Probability calculation sunshine guarantee',
                             style={'align': 'center'}),
                 ], className="six wide column"),
                 html.Div([
@@ -67,7 +67,7 @@ def generate_html_layout(locations: list):
                          options=[{'label': i, 'value': i} for i in locations],
                          value=locations[0]
                      ),
-                     ], className="four wide column"),
+                     ], className="three wide column"),
                 html.Div(
                     [
                         html.P('Anreise Datum'),
