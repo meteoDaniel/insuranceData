@@ -10,8 +10,9 @@ VALID_USERNAME_PASSWORD_PAIRS = [
     ['harald.brand@wiass.eu', 'brand#wiass!2019'],
     ['forecast@event-wetter.com', 'bmtsdlewb2019']
 ]
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-app = dash.Dash(__name__)
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 auth = dash_auth.BasicAuth(
     app,
     VALID_USERNAME_PASSWORD_PAIRS
