@@ -32,5 +32,5 @@ systemd-python==234
 traitlets==4.3.2
 ubuntu-drivers-common==0.0.0
 ufw==0.35
-urllib3==1.22
+urllib3==1.26.5
 xkit==0.0.0
